@@ -1,9 +1,10 @@
 # Rumah Belajar
-This project was originally developed for a real business as part of my coursework. It is not an official website but was created to showcase my web development skills within a limited timeframe of one week. The objective of this project was to create a website that offers a smooth user experience, including responsive design across multiple devices.
+
+> This project was originally developed for a real business as part of my courseworkand has been cloned to this personal repository for further development and showcasing. It is not an official website but was created to showcase my web development skills within a limited timeframe of one week. The objective of this project was to create a website that offers a smooth user experience, including responsive design across multiple devices.
 
 ## About the Website
 
-**Rumah Belajar** is a static website designed to provide information about a tutoring business. The website includes sections for listing tutors, displaying a photo gallery of teaching and learning activities, showcasing customer reviews from parents, and a form for potential students to join.
+**Rumah Belajar** is a business profile website designed to provide information about a tutoring house named Rumah Belajar. The website provide list of available tutors, displaying a photo gallery of teaching and learning activities, and showcasing customer reviews from parents. Although this is a static website, users can still navigate through its sections and fill out the form for potential students.
 
 ## Features
 
@@ -19,7 +20,6 @@ This project was originally developed for a real business as part of my coursewo
 - HTML
 - CSS
 - JavaScript
-- GitHub
 
 ## Update History
 
